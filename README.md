@@ -3,12 +3,12 @@ Welcome to my competitive programming repository! This repository serves as a da
 
 ## 📌 Strategy & Roadmap
 To ensure structured growth, I have broken down the 50-day challenge into three distinct engineering phases:
-*   **Phase 1: Basic Logic & Implementation** (Days 1–15)  
-    *Focus: Reading problem statements, handling basic input/output, simple conditions, and math.*
-*   **Phase 2: Loops, Arrays & Math Logic** (Days 16–35)  
-    *Focus: Managing frequencies, conditional tracking, and basic number properties.*
-*   **Phase 3: Puzzles & Multi-Pointer Thinking** (Days 36–50)  
-    *Focus: Problem solving that requires simulation, basic sorting, or tracking min/max bounds.*
+*   **Phase 1: Basic Math Logic & Implementation Constraints** (Days 1–15)  
+    *Focus: Core arithmetic algorithms, handling strict boundary conditions, character manipulation, and establishing daily fast I/O baselines.*
+*   **Phase 2: Linear Data Structures (Arrays & Strings) & Greedy Logic** (Days 16–35)  
+    *Focus: Multi-loop matrix navigation, string processing, frequency tracking, and optimizing code efficiency under tight execution limits.*
+*   **Phase 3: Sorting, Searching, & Algorithmic Simulations** (Days 36–50)  
+    *Focus: Coordinate/Two-Pointer logic, sorting mechanics, tracking min/max bounds, and handling multi-conditional problem simulations.*
 
 ---
 
