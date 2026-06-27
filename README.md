@@ -18,7 +18,7 @@ To ensure structured growth, I have broken down the 50-day challenge into three 
 | :---: | :---: | :--- | :---: | :---: |
 | **01** | Phase 1 | 4A - Watermelon | [Link](https://codeforces.com/problemset/problem/4/A) | ✅ Accepted |
 | **02** | Phase 1 | 71A - Way Too Long Words | [Link](https://codeforces.com/problemset/problem/71/A) | ✅ Accepted |
-| **03** | Phase 1 | 231A - Team | [Link](https://codeforces.com/problemset/problem/231/A) | ⏳ Pending |
+| **03** | Phase 1 | 231A - Team | [Link](https://codeforces.com/problemset/problem/231/A) | ✅ Accepted |
 | **04** | Phase 1 | 158A - Next Round | [Link](https://codeforces.com/problemset/problem/158/A) | ⏳ Pending |
 | **05** | Phase 1 | 50A - Domino piling | [Link](https://codeforces.com/problemset/problem/50/A) | ⏳ Pending |
 | **06** | Phase 1 | 282A - Bit++ | [Link](https://codeforces.com/problemset/problem/282/A) | ⏳ Pending |
