@@ -25,7 +25,7 @@ To ensure structured growth, I have broken down the 50-day challenge into three 
 | **07** | Phase 1 | 263A - Beautiful Matrix | [Link](https://codeforces.com/problemset/problem/263/A) | ✅ Accepted |
 | **08** | Phase 1 | 112A - Petya and Strings | [Link](https://codeforces.com/problemset/problem/112/A) | ✅ Accepted |
 | **09** | Phase 1 | 339A - Helpful Maths | [Link](https://codeforces.com/problemset/problem/339/A) | ✅ Accepted |
-| **10** | Phase 1 | 281A - Word Capitalization | [Link](https://codeforces.com/problemset/problem/281/A) | ⏳ Pending |
+| **10** | Phase 1 | 281A - Word Capitalization | [Link](https://codeforces.com/problemset/problem/281/A) | ✅ Accepted |
 | **11** | Phase 1 | 236A - Boy or Girl | [Link](https://codeforces.com/problemset/problem/236/A) | ⏳ Pending |
 | **12** | Phase 1 | 546A - Soldier and Bananas | [Link](https://codeforces.com/problemset/problem/546/A) | ⏳ Pending |
 | **13** | Phase 1 | 791A - Bear and Big Brother | [Link](https://codeforces.com/problemset/problem/791/A) | ⏳ Pending |
