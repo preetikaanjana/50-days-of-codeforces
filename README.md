@@ -27,7 +27,7 @@ To ensure structured growth, I have broken down the 50-day challenge into three 
 | **09** | Phase 1 | 339A - Helpful Maths | [Link](https://codeforces.com/problemset/problem/339/A) | ✅ Accepted |
 | **10** | Phase 1 | 281A - Word Capitalization | [Link](https://codeforces.com/problemset/problem/281/A) | ✅ Accepted |
 | **11** | Phase 1 | 236A - Boy or Girl | [Link](https://codeforces.com/problemset/problem/236/A) | ⏳ Pending |
-| **12** | Phase 1 | 546A - Soldier and Bananas | [Link](https://codeforces.com/problemset/problem/546/A) | ⏳ Pending |
+| **12** | Phase 1 | 546A - Soldier and Bananas | [Link](https://codeforces.com/problemset/problem/546/A) | ✅ Accepted |
 | **13** | Phase 1 | 791A - Bear and Big Brother | [Link](https://codeforces.com/problemset/problem/791/A) | ⏳ Pending |
 | **14** | Phase 1 | 617A - Elephant | [Link](https://codeforces.com/problemset/problem/617/A) | ⏳ Pending |
 | **15** | Phase 1 | 59A - Word | [Link](https://codeforces.com/problemset/problem/59/A) | ⏳ Pending |
