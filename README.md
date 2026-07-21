@@ -31,7 +31,7 @@ To ensure structured growth, I have broken down the 50-day challenge into three 
 | **13** | Phase 1 | 791A - Bear and Big Brother | [Link](https://codeforces.com/problemset/problem/791/A) | ✅ Accepted |
 | **14** | Phase 1 | 617A - Elephant | [Link](https://codeforces.com/problemset/problem/617/A) | ✅ Accepted |
 | **15** | Phase 1 | 59A - Word | [Link](https://codeforces.com/problemset/problem/59/A) | ✅ Accepted |
-| **16** | Phase 2 | 977A - Wrong Subtraction | [Link](https://codeforces.com/problemset/problem/977/A) | ⏳ Pending |
+| **16** | Phase 2 | 977A - Wrong Subtraction | [Link](https://codeforces.com/problemset/problem/977/A) | ✅ Accepted |
 | **17** | Phase 2 | 266A - Stones on the Table | [Link](https://codeforces.com/problemset/problem/266/A) | ⏳ Pending |
 | **18** | Phase 2 | 110A - Nearly Lucky Number | [Link](https://codeforces.com/problemset/problem/110/A) | ⏳ Pending |
 | **19** | Phase 2 | 467A - George and Accommodation | [Link](https://codeforces.com/problemset/problem/467/A) | ⏳ Pending |
