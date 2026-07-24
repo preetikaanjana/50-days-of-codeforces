@@ -34,7 +34,7 @@ To ensure structured growth, I have broken down the 50-day challenge into three 
 | **16** | Phase 2 | 977A - Wrong Subtraction | [Link](https://codeforces.com/problemset/problem/977/A) | ✅ Accepted |
 | **17** | Phase 2 | 266A - Stones on the Table | [Link](https://codeforces.com/problemset/problem/266/A) | ✅ Accepted |
 | **18** | Phase 2 | 110A - Nearly Lucky Number | [Link](https://codeforces.com/problemset/problem/110/A) | ✅ Accepted |
-| **19** | Phase 2 | 467A - George and Accommodation | [Link](https://codeforces.com/problemset/problem/467/A) | ⏳ Pending |
+| **19** | Phase 2 | 467A - George and Accommodation | [Link](https://codeforces.com/problemset/problem/467/A) | ✅ Accepted |
 | **20** | Phase 2 | 677A - Vanya and Fence | [Link](https://codeforces.com/problemset/problem/677/A) | ⏳ Pending |
 | **21** | Phase 2 | 734A - Anton and Danik | [Link](https://codeforces.com/problemset/problem/734/A) | ⏳ Pending |
 | **22** | Phase 2 | 41A - Translation | [Link](https://codeforces.com/problemset/problem/41/A) | ⏳ Pending |
