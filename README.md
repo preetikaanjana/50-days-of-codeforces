@@ -37,7 +37,7 @@ To ensure structured growth, I have broken down the 50-day challenge into three 
 | **19** | Phase 2 | 467A - George and Accommodation | [Link](https://codeforces.com/problemset/problem/467/A) | ✅ Accepted |
 | **20** | Phase 2 | 677A - Vanya and Fence | [Link](https://codeforces.com/problemset/problem/677/A) | ✅ Accepted |
 | **21** | Phase 2 | 734A - Anton and Danik | [Link](https://codeforces.com/problemset/problem/734/A) | ✅ Accepted |
-| **22** | Phase 2 | 41A - Translation | [Link](https://codeforces.com/problemset/problem/41/A) | ⏳ Pending |
+| **22** | Phase 2 | 41A - Translation | [Link](https://codeforces.com/problemset/problem/41/A) | ✅ Accepted |
 | **23** | Phase 2 | 271A - Beautiful Year | [Link](https://codeforces.com/problemset/problem/271/A) | ⏳ Pending |
 | **24** | Phase 2 | 116A - Tram | [Link](https://codeforces.com/problemset/problem/116/A) | ⏳ Pending |
 | **25** | Phase 2 | 344A - Magnets | [Link](https://codeforces.com/problemset/problem/344/A) | ⏳ Pending |
