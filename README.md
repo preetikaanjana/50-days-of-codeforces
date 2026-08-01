@@ -40,7 +40,7 @@ To ensure structured growth, I have broken down the 50-day challenge into three 
 | **22** | Phase 2 | 41A - Translation | [Link](https://codeforces.com/problemset/problem/41/A) | ✅ Accepted |
 | **23** | Phase 2 | 271A - Beautiful Year | [Link](https://codeforces.com/problemset/problem/271/A) | ⏳ Pending |
 | **24** | Phase 2 | 116A - Tram | [Link](https://codeforces.com/problemset/problem/116/A) | ✅ Accepted |
-| **25** | Phase 2 | 344A - Magnets | [Link](https://codeforces.com/problemset/problem/344/A) | ⏳ Pending |
+| **25** | Phase 2 | 344A - Magnets | [Link](https://codeforces.com/problemset/problem/344/A) |  ✅ Accepted |
 | **26** | Phase 2 | 136A - Presents | [Link](https://codeforces.com/problemset/problem/136/A) | ⏳ Pending |
 | **27** | Phase 2 | 69A - Young Physicist | [Link](https://codeforces.com/problemset/problem/69/A) | ⏳ Pending |
 | **28** | Phase 2 | 486A - Calculating Function | [Link](https://codeforces.com/problemset/problem/486/A) | ⏳ Pending |
